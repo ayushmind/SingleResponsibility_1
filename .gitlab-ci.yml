@@ -1,0 +1,16 @@
+variables:
+  DOTNET_CLI_OPTS: '--test-adapter-path:. --logger:"junit;LogFilePath=..\artifacts\{assembly}-test-result.xml;MethodFormat=Class;FailureBodyFormat=Verbose"'
+
+image: mcr.microsoft.com/dotnet/sdk:5.0
+
+test:
+  before_script:
+    - dotnet tool install dotnet-reportgenerator-globaltool --tool-path tools
+  stage: test
+  script:
+    - dotnet test $DOTNET_CLI_OPTS
+  artifacts:
+    when: always
+    reports:
+      junit:
+       - ./**/*test-result.xml

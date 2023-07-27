@@ -1,0 +1,12 @@
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\bin\Debug\net5.0\SRP.deps.json
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\bin\Debug\net5.0\SRP.dll
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\bin\Debug\net5.0\SRP.pdb
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.csproj.AssemblyReference.cache
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.AssemblyInfoInputs.cache
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.AssemblyInfo.cs
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.csproj.CoreCompileInputs.cache
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.dll
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\refint\SRP.dll
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\SRP.pdb
+C:\EngX\CleanDesign\clean-code-advanced-csharp-srp_32805e71-3f8e-491f-8443-806134ce6ad7\SRP\obj\Debug\net5.0\ref\SRP.dll
